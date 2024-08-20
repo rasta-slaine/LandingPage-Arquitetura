@@ -7,11 +7,11 @@ para a capitação de leads, intregado com o **SheetMonkey** junto com **Javascr
 
 As tecnologias usadas nesse projeto.
 
-**HTML**
-**CSS**
-**JAVASCRIPT**
-**SheetMonkey**
-**GoogleSheet**
+- **Html**
+- **Css**
+- **JavaScript**
+- **SheetMonkey**
+- **GoogleSheet**
 
 
 ## Getting started
@@ -20,47 +20,39 @@ As tecnologias usadas nesse projeto.
 
 * Clone o repositório:
    ```bash
-   git clone https://github.com/rasta-slaine/Chat_IA_React.git
-   cd Chat_IA_React
+   git clone https://github.com/rasta-slaine/LandingPage-Arquitetura
+   cd LandingPage-Arquitetura
+   ```
    
-   
-* Instale as dependências
-  ```bash
-   npm install
-
-* To run the project.
-   ```bash
-  - npm run dev
-
 ## Features
 
-As features do aplicativo são:
+As features são:
 
-- **Formmulario**: Captura os leads e insere em uma planilha do googleSheet.
+- **Formulario**: Captura os leads e insere em uma planilha do googleSheet.
 
 ## Link
 [LandinPage]('')
+[GoogleSheet]('https://docs.google.com/spreadsheets/d/1XtS-v2Ux2rE2ot26UaIgBa0GwpmoGU_HLVJ4-YA7zec/edit?gid=0#gid=0')
+
 
 
 ## Overview : )
 
-### 1 - Quando você abrir o App, Você vera a tela principal
+### 1 - Start page
 
-![Homepage image](https://raw.githubusercontent.com/rasta-slaine/Chat_IA_React/main/public/Readmi/image1.png)
+![Start Page](https://raw.githubusercontent.com/rasta-slaine/LandingPage-Arquitetura/main/assets/git/img/page-start.png)
 
-### 2 - Carregamento - a resposta e caregando com o skelleton 
+### 2 - Midle Page
 
-![Loading](https://raw.githubusercontent.com/rasta-slaine/Chat_IA_React/main/public/Readmi/image2.png)
+![Midle Page](https://raw.githubusercontent.com/rasta-slaine/LandingPage-Arquitetura/main/assets/git/img/page-midle.png)
 
-### 3 - E após o loading, Você vera a sua resposta.
+### 3 - Form
 
-![Quest](https://raw.githubusercontent.com/rasta-slaine/Chat_IA_React/main/public/Readmi/image3.png)
+![Form](https://raw.githubusercontent.com/rasta-slaine/LandingPage-Arquitetura/main/assets/git/img/form.png)
 
-### 4 - Os Titulo dinamico - pergunta
+### 4 - Google Sheet
 
-![Title](https://raw.githubusercontent.com/rasta-slaine/Chat_IA_React/main/public/Readmi/image4.png)
-
-
+![sheet](https://raw.githubusercontent.com/rasta-slaine/Chat_IA_React/main/public/Readmi/image4.png)
 
 
 
