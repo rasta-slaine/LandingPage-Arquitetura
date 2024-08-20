@@ -1,5 +1,5 @@
 
-## SpotCode
+## LandingPage - Arquitetura
 Essa aplicação é uma LandingPage para a apresentação de uma empresa da area de arquitetura usando um design feito no **Figma** como base para a contrução e conta com um formulario para a capitação de leads, intregado com o **SheetMonkey** junto com **Javascript** para inserir os lead em uma planilha no **GoogleSheet**.
 
 
