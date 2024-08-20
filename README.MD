@@ -30,7 +30,7 @@ As tecnologias usadas nesse projeto.
 
 ## Links
 - [LandingPage](https://landingpagearquiteturanathan.netlify.app/)
-- [GoogleSheet](https://docs.google.com/spreadsheets/d/1XtS-v2Ux2rE2ot26UaIgBa0GwpmoGU_HLVJ4-YA7zec/pubhtml)
+- [GoogleSheet](https://docs.google.com/spreadsheets/d/1XtS-v2Ux2rE2ot26UaIgBa0GwpmoGU_HLVJ4-YA7zec/edit?gid=0#gid=0)
 - [Figma](https://www.figma.com/design/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=3-133&t=DLGkPZDxgW4oKtLJ-0)
 
 
