@@ -30,7 +30,7 @@ As tecnologias usadas nesse projeto.
 
 ## Link
 - [LandinPage]('')
-- [GoogleSheet]('https://docs.google.com/spreadsheets/d/1XtS-v2Ux2rE2ot26UaIgBa0GwpmoGU_HLVJ4-YA7zec/edit?gid=0#gid=0')
+- [GoogleSheet](https://docs.google.com/spreadsheets/d/1XtS-v2Ux2rE2ot26UaIgBa0GwpmoGU_HLVJ4-YA7zec/edit?gid=0#gid=0)
 
 
 
