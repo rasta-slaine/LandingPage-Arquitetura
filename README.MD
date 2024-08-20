@@ -52,6 +52,8 @@ As tecnologias usadas nesse projeto.
 
 ![sheet](https://raw.githubusercontent.com/rasta-slaine/LandingPage-Arquitetura/main/assets/git/img/sheet.png)
 
+### 5 - Video
+![sheet](https://raw.githubusercontent.com/rasta-slaine/LandingPage-Arquitetura/main/assets/git/video/video-landingpage-arquitetura.mp4)
 
 
 ## Contact
