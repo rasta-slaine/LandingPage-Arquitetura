@@ -1,7 +1,7 @@
 
 ## SpotCode
-Essa aplicação é uma LandingPage para a apresentação de uma empresa da area de arquitetura e conta com um formulario
-para a capitação de leads, intregado com o **SheetMonkey** junto com **Javascript** para inserir os lead em uma planilha no **GoogleSheet**
+Essa aplicação é uma LandingPage para a apresentação de uma empresa da area de arquitetura usando um design feito no **Figma** como base para a contrução e conta com um formulario para a capitação de leads, intregado com o **SheetMonkey** junto com **Javascript** para inserir os lead em uma planilha no **GoogleSheet**.
+
 
 ## Technology 
 
@@ -29,9 +29,9 @@ As tecnologias usadas nesse projeto.
 - **Formulario**: Captura os leads e insere em uma planilha do googleSheet.
 
 ## Links
-- [LandinPage](https://landingpagearquiteturanathan.netlify.app/)
+- [LandingPage](https://landingpagearquiteturanathan.netlify.app/)
 - [GoogleSheet](https://docs.google.com/spreadsheets/d/1XtS-v2Ux2rE2ot26UaIgBa0GwpmoGU_HLVJ4-YA7zec/edit?gid=0#gid=0)
-
+- [Figma](https://www.figma.com/design/0FRiZbs30dfSniazKiM1rM/Desafio-1---Desenvolva-uma-Landing-Page?node-id=3-133&t=DLGkPZDxgW4oKtLJ-0)
 
 
 ## Overview : )
