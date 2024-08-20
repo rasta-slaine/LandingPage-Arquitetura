@@ -31,8 +31,8 @@ As features são:
 - **Formulario**: Captura os leads e insere em uma planilha do googleSheet.
 
 ## Link
-[LandinPage]('')
-[GoogleSheet]('https://docs.google.com/spreadsheets/d/1XtS-v2Ux2rE2ot26UaIgBa0GwpmoGU_HLVJ4-YA7zec/edit?gid=0#gid=0')
+-[LandinPage]('')
+-[GoogleSheet]('https://docs.google.com/spreadsheets/d/1XtS-v2Ux2rE2ot26UaIgBa0GwpmoGU_HLVJ4-YA7zec/edit?gid=0#gid=0')
 
 
 
@@ -52,7 +52,7 @@ As features são:
 
 ### 4 - Google Sheet
 
-![sheet](https://raw.githubusercontent.com/rasta-slaine/Chat_IA_React/main/public/Readmi/image4.png)
+![sheet](https://raw.githubusercontent.com/rasta-slaine/LandingPage-Arquitetura/main/assets/git/img/sheet.png)
 
 
 
@@ -60,7 +60,7 @@ As features são:
  ### Email  
    * Quiknathan7@gmail.com
  ### Linkedin 
-   *[Perfil Nathan](https://www.linkedin.com/in/nathan-das-chagas-santos-862179185/)
+   * [Perfil Nathan](https://www.linkedin.com/in/nathan-das-chagas-santos-862179185/)
 
   ## Autor
 
